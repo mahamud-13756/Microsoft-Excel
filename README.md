@@ -41,6 +41,34 @@ Welcome to **Excel for Data Analyst - Episode 01**!
 
 ---
 
+### 📊 Excel for Data Analyst Tutorial | Status Bar, Zoom, Range & Protection
+
+Welcome to **Excel for Data Analyst - Episode 02**!  
+
+📌 **এই ভিডিওতে যা যা শিখবেন:**  
+✅ **Status Bar কীভাবে কাজ করে?**  
+✅ **Zoom In & Zoom Out দিয়ে ওয়ার্কস্পেস কাস্টমাইজ করা**  
+✅ **Cell Range ও তার ব্যবহার**  
+✅ **Worksheet Protection & Data Security**  
+✅ **Excel-এ ভুল এড়াতে Data Lock & Protect করার টিপস**  
+
+### 📚 Resources - Notes, Slides & Video
+
+### 🎥 **Video Link - Excel Data Analyst Tutorial**
+👉 [Watch the Full Video on YouTube](https://youtu.be/iN1tQw_yVSw?si=Vn6NRMsqCpH4K6VP)
+
+### 📝 **Class Notes (PDF)**
+[Download Notes](https://github.com/your-username/Excel-for-Data-Analyst/tree/main/Excel%20%2302)
+
+### 📑 **PPT Slides**
+[Download PPT](#) <!-- এখানে তোমার PPT link বসাও -->
+
+### 📓 **Excel Workbook (XLSX)**
+[Download Workbook](#) <!-- যদি Workbook থাকে -->
+
+---
+
+
 ### 🔗 **Excel for Data Analyst - Full Playlist**
 Explore the full series here —  
 👉 [Excel Full Playlist](https://www.youtube.com/playlist?list=PLGvQDTPXnnfo0PUuo5UokiDRrl0ELPLKv)
