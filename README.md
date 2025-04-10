@@ -22,7 +22,7 @@ Welcome to **Excel for Data Analyst - Episode 01**!
 ✅ **Workbook & Worksheet - কী?**  
 ✅ **Rows, Columns এবং Cell Address বোঝার সহজ উপায়**  
 ✅ **Cell Address ব্যবহার করে Data ম্যানিপুলেশন**  
-✅ **Basic Formula & Functions দিয়ে Excel কাজ শুরু**  
+✅ **Basic Formula & Functions দিয়ে Excel কাজ শুরু**   
 ✅ **Data Analyst হিসেবে Excel কেন এত গুরুত্বপূর্ণ?**  
 
 ### 📚 Resources - Notes, Slides & Video
